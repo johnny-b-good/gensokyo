@@ -1,0 +1,2 @@
+# gensokyo
+Django-based imageboard
